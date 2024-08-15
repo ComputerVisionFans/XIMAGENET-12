@@ -1,7 +1,7 @@
 # **Introduction:**
 
 <p align="center">
-  <img alt="XimageNet-12" style="width: 1024px; max-width: 100%; height: auto;" src="https://qiangli.de/imgs/flowchart2%20(1).png"/>
+  <img alt="XimageNet-12" style="width: 728px; max-width: 100%; height: auto;" src="https://qiangli.de/imgs/flowchart2%20(1).png"/>
   <h1 align="center">🌟 XimageNet-12 🌟</h1> 
   <p align="center">An Explainable Visual Benchmark Dataset for Robustness Evaluation. A Dataset for Image Background Exploration!</p>
   <p align="center"><b>Blur Background, Segmented Background, AI-generated Background, Bias of Tools During Annotation, Color in Background, Random Background with Real Environment</b></p>
